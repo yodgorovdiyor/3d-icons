@@ -18,8 +18,8 @@ body {
 	background-color: #E1E4E9;
 	text-align: center;
 	border-radius: 20px;
-	box-shadow: 3px 3px 16px 0px rgba(0,0,0,0.50);
-/*	box-shadow: -3px -3px 16px 0px rgba(255,255,255,1);*/
+	box-shadow: -10px -10px 15px 0px rgba(247,242,247,1),
+        10px 10px 20px -10px rgba(5,1,5,1);
 
 }
 
@@ -29,8 +29,8 @@ body {
 	height: 90px;
 	background-color: #E1E4E9;
 	border-radius: 20px;
-	box-shadow: 3px 3px 16px 0px rgba(0,0,0,0.50);
-/*	box-shadow: -3px -3px 16px 0px rgba(255,255,255,1);*/
+	box-shadow: -10px -10px 15px 0px rgba(247,242,247,1),
+        10px 10px 20px -10px rgba(5,1,5,1);
 	box-sizing: border-box;
 	padding-top: 15px;
 }

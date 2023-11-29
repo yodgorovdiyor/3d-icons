@@ -27,7 +27,7 @@ body {
 	height: 100px;
 	background-color: #FE858C;
 	box-sizing: border-box;
-	padding-top: 35px;
+/*	padding-top: 35px;*/
 	border-radius: 15px;
 }
 
@@ -38,18 +38,18 @@ body {
 /*	background-color: black;*/
 }
 
-.ent {
-	
-}
-
 .shift {
 	display: inline-block;
 	width: 22%;
 	height: 100px;
 	background-color: #FE858C;
 	box-sizing: border-box;
-	padding-top: 35px;
+/*	padding-top: 35px;*/
 	border-radius: 15px;
+}
+
+button {
+	border: none;
 }
 
 .enter {
@@ -58,7 +58,7 @@ body {
 	height: 100px;	
 	background-color: #FE858C;
 	box-sizing: border-box;
-	padding-top: 35px;
+/*	padding-top: 35px;*/
 	border-radius: 15px;
 }
 
